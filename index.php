@@ -10,10 +10,10 @@
     </head>
     <body ng-app="myApp" ng-controller="karyawanCtrl" style="padding-bottom: 60px;">
         <nav class="navbar navbar-default">
-            <a class="navbar-brand" href="/minum">Home</a>
+            <a class="navbar-brand" href=".">Home</a>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="/minum/manage.php">Manage</a></li>
+                    <li class="active"><a href="./manage.php">Manage</a></li>
                 </ul>
             </div>
         </nav>
